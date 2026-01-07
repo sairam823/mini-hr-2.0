@@ -1,0 +1,8 @@
+{
+  "name": "mini hr 2.0",
+  "description": "An AI-powered professional network and hiring platform that predicts human potential through adaptive assessments and AI-conducted video interviews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
